@@ -1,0 +1,3 @@
+* resource
+
+Repository for referencing and storing content used in social media platforms.
